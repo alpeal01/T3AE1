@@ -1,2 +1,6 @@
 Pérez Alborch
+<<<<<<< HEAD
 usuari1
+=======
+usuari2 
+>>>>>>> origin/master
